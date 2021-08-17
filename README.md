@@ -1,4 +1,6 @@
 # RegressionTheoryAndMethods
 Regression Theory and Methods course materials
 
-Basically there are 3 Homeworks in this repository.
+R programming language. 
+
+This repo contains 3 homeworks. 
